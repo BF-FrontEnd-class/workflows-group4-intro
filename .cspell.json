@@ -13,8 +13,6 @@
     "package.json",
     "package-lock.json",
     "**/*.mp4",
-    "**/*.svg",
-    "Inna",
-    "inna"
+    "**/*.svg"
   ]
 }
