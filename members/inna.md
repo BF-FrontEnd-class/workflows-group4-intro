@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Inna
 
-![MyPhoto](/members/img/inna.jpg)
+![MyPhoto](inna.jpg)
 
 I am Ukrainian 🇺🇦!
 
@@ -40,7 +40,7 @@ Here are a few things you should know about me:
 - My future plans involve traveling to different countries, learning about new
   cultures, and experiencing new things 🌎.
 
-![linkedin](/members/img/linkedin.png)
+![linkedin](linkedin.png)
 [Let's get in touch](https://www.linkedin.com/in/inna-vozniak-14a8a010a/)
 
-![Emoji](/members/img/emoji-1.jpeg)
+![Emoji](emoji-1.jpeg)
