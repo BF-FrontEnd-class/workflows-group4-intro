@@ -8,7 +8,7 @@
 4. For the future
 5. My social networks
 
-### **1.** Photo: ![Photo](./img/Avatar.jpg)
+### **1.** Photo: ![Photo](/members/img/avatar.jpg)
 
                          My favorite quote
                 After hardship, there is always relief.
