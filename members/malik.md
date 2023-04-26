@@ -2,13 +2,13 @@
 
 ## **_Plan of my BIO :_**
 
-1.  Photo
-2.  Favorite quote
-3.  A little bit about yourself
-4.  For the future
-5.  My social networks
+1. Photo
+2. Favorite quote
+3. A little bit about yourself
+4. For the future
+5. My social networks
 
-    ### **1.** Photo: ![Photo](./img/Avatar.jpg)
+### **1.** Photo: ![Photo](./img/Avatar.jpg)
 
                          My favorite quote
                 After hardship, there is always relief.
