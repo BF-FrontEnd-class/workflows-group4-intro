@@ -1,13 +1,11 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo"],
+  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo", "inna", "Inna"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
     "package-lock.json",
     "**/*.mp4",
-    "**/*.svg",
-    "Inna",
-    "inna"
+    "**/*.svg"
   ]
 }
