@@ -4,7 +4,7 @@
 
 ![MyPhoto](/members/img/inna.jpg)
 
-I am Ukrainian 🇺🇦
+I am Ukrainian 🇺🇦!
 
 I speak 5 languages 🇺🇦, 🇷🇺, 🇮🇹, 🇬🇧, 🇧🇪
 
