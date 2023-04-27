@@ -1,6 +1,4 @@
-33
-
-## Introduction
+# Introduction
 
 - 👋 Hello and welcome! We are Group 4, and we're excited to present our
   project, titled 'Intro'. In this project, we'll be sharing information about
