@@ -10,7 +10,10 @@
     "IRADUKUNDA",
     "Bornem",
     "Malik's",
-    "FIFA"
+    "FIFA",
+    "groupimg",
+    "Malik",
+    "groupimg"
   ],
   "ignorePaths": [
     "node_modules/**",
